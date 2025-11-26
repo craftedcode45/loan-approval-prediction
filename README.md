@@ -21,7 +21,6 @@ This project implements a machine learning model to predict whether a loan appli
 loan-approval-prediction/
 ├── data/                  # Dataset files
 ├── notebooks/             # Jupyter notebooks for analysis
-├── src/                   # Source code files
 ├── requirements.txt       # Project dependencies
 ├── setup_instructions.md  # Setup guide
 └── README.md             # Project documentation
